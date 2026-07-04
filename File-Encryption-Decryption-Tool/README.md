@@ -59,6 +59,7 @@ File-Encryption-Decryption-Tool/
 
    ```
 # Installation & Setup 
+```
 Prerequisites Python 3.12 or newer installed locally.
 ```
 ```
